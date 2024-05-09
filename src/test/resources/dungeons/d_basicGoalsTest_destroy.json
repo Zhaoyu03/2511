@@ -1,0 +1,82 @@
+{
+    "entities": [
+        {
+            "type": "player",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "type": "sword",
+            "x": 2,
+            "y": 1
+        },
+        {
+            "type": "wall",
+            "x": 0,
+            "y": 1
+        },
+        {
+            "type": "wall",
+            "x": 0,
+            "y": 2
+        },
+        {
+            "type": "mercenary",
+            "x": 5,
+            "y": 1
+        },
+        {
+            "type": "mercenary",
+            "x": 7,
+            "y": 1
+        },
+        {
+            "type": "mercenary",
+            "x": 9,
+            "y": 1
+        },
+        {
+            "type": "mercenary",
+            "x": 11,
+            "y": 1
+        },
+        {
+            "type": "mercenary",
+            "x": 13,
+            "y": 1
+        },
+        {
+            "type": "mercenary",
+            "x": 8,
+            "y": 7
+        },
+        {
+            "type": "mercenary",
+            "x": 9,
+            "y": 6
+        },
+        {
+            "type": "mercenary",
+            "x": 10,
+            "y": 10
+        },
+        {
+            "type": "mercenary",
+            "x": 0,
+            "y": -10
+        },
+        {
+            "type": "mercenary",
+            "x": 12,
+            "y": 12
+        },
+        {
+            "type": "spider",
+            "x": 0,
+            "y": 3
+        }
+    ],
+    "goal-condition": {
+        "goal": "destroy"
+    }
+}
